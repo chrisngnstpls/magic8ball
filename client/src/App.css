@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: red;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.ui.fluid.container {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+
+}
+.pets{
+  padding: 20px;
+}
+
+.spaceIt{
+  color: #09d3ac;
+}
